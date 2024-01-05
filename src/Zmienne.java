@@ -42,3 +42,5 @@ public class Zmienne {
 
     }
 }
+
+// https://github.com/przemjan/trzeciacgr1r2024
